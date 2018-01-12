@@ -17,3 +17,10 @@ Name  |  Description
 [Learn Python in 7 Days by Mohit and Bhaskar N. Das](https://drive.google.com/open?id=1CeJKDFd7HQqDI2WHf4WfF-5rMDKeq6hQ) |  Learn complex concepts using the most simple examples
 [PHP A Beginner’s Guide by Vikram Vaswani](https://drive.google.com/open?id=166h9c4B6P-t4Ch18BgQlNIbCaFxUfTZG) | Learn how to build dynamic, data-driven Web applications using PHP
 [Python 3 for Absolute Beginners by Tim Hall and J-P Stacey](https://drive.google.com/open?id=1HYBjhiDYVuUgSFmbqg_V0pa3i33BeL9F) | All you will ever need to start programming Python
+[HOW TO MAKE YOUR OWN KEYLOGGER IN C++ PROGRAMMING LANGUAGE by ALAN T. NORMAN](https://drive.google.com/open?id=1WYaWywC0v84WMphdxsF9YYTgj-HJGARd) | Learn How to Make Your Own Keylogger in C++ Programming Language 
+
+### eBooks Related to Computer 
+
+Name  |  Description
+----  |  ----
+[A Python Book by Dave Kuhlman](https://drive.google.com/open?id=1OdqLUYQbajKpbcKux9m-8bTWII_urblR) | This book is a self learning document for a course in Python programming.
