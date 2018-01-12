@@ -25,3 +25,4 @@ Name  |  Description
 ----  |  ----
 [Computer Networking Principles by Olivier Bonaventure](https://drive.google.com/open?id=1VqA0FwjZcRphg5zmgPPee45fCPmv_yq8) | The Paperback of the Computer Networking: Principles, Protocols and Practice
 [TCP IP FOR DUMMIES by Candace Leiden and Marshall Wilensky](https://drive.google.com/open?id=1wvPRcbBiZAk8KaXfQ5TeTdcCImItO8rW) | Packed with the latest information on TCP/IP standards and protocols 
+[Understanding IP Addressing Everything You Ever Wanted To Know](https://drive.google.com/open?id=1b8LBDNuLo5P98kyMb2gAd4Wl1FsHej4p) | An overview of what network administrators need to know about IP addressing and subnetting.
