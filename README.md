@@ -14,3 +14,6 @@ Name  |  Description
 [HTML and CSS design and build websites by Jon Duckett](https://drive.google.com/open?id=1anXnZCYvXbX_Ict31q8b62cYgBYNIi7I) | For Those who want to learn how to design and build websites from scratch
 [LEARN PYTHON THE HARD WAY by Zed A. Shaw](https://drive.google.com/open?id=1R9-NKc1PqZ3S9M3jIG_eYvaPjdC-p8yF) | A very simple introduction to the terrifyingly beautiful world of computers and code  
 [Lean Python by Paul Gerrard](https://drive.google.com/open?id=1Hfz1IJND1WiWenUdfcIID7wcDV4yV6Cz) | Learn Just Enough Python to Build Useful Tools
+[Learn Python in 7 Days by Mohit and Bhaskar N. Das](https://drive.google.com/open?id=1CeJKDFd7HQqDI2WHf4WfF-5rMDKeq6hQ) |  Learn complex concepts using the most simple examples
+[PHP A Beginner’s Guide by Vikram Vaswani](https://drive.google.com/open?id=166h9c4B6P-t4Ch18BgQlNIbCaFxUfTZG) | Learn how to build dynamic, data-driven Web applications using PHP
+[Python 3 for Absolute Beginners by Tim Hall and J-P Stacey](https://drive.google.com/open?id=1HYBjhiDYVuUgSFmbqg_V0pa3i33BeL9F) | All you will ever need to start programming Python
