@@ -12,3 +12,4 @@ Name  |  Description
 [C++ in One Hour a Day, Sams Teach Yourself](https://drive.google.com/open?id=1-140kjt4hMp0gzLygFXMp2K_Vt4hxtlV) | The book starts with the very basics of C++. All that is needed is a desire to learn this language and curiosity to understand how stuff works.
 [HTML & CSS The Complete Reference by Thomas A. Powell](https://drive.google.com/open?id=1GsJ-YMMY1UkHc4MjjFjKbRzvnh8Dp8yv) | The Definitive Guide to HTML & CSS Written by a Web development expert.
 [HTML and CSS design and build websites by Jon Duckett](https://drive.google.com/open?id=1anXnZCYvXbX_Ict31q8b62cYgBYNIi7I) | For Those who want to learn how to design and build websites from scratch
+[LEARN PYTHON THE HARD WAY by Zed A. Shaw](https://drive.google.com/open?id=1CeJKDFd7HQqDI2WHf4WfF-5rMDKeq6hQ) | A very simple introduction to the terrifyingly beautiful world of computers and code  
