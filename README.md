@@ -13,3 +13,4 @@ Name  |  Description
 [HTML & CSS The Complete Reference by Thomas A. Powell](https://drive.google.com/open?id=1GsJ-YMMY1UkHc4MjjFjKbRzvnh8Dp8yv) | The Definitive Guide to HTML & CSS Written by a Web development expert.
 [HTML and CSS design and build websites by Jon Duckett](https://drive.google.com/open?id=1anXnZCYvXbX_Ict31q8b62cYgBYNIi7I) | For Those who want to learn how to design and build websites from scratch
 [LEARN PYTHON THE HARD WAY by Zed A. Shaw](https://drive.google.com/open?id=1R9-NKc1PqZ3S9M3jIG_eYvaPjdC-p8yF) | A very simple introduction to the terrifyingly beautiful world of computers and code  
+[Lean Python by Paul Gerrard](https://drive.google.com/open?id=1Hfz1IJND1WiWenUdfcIID7wcDV4yV6Cz) | Learn Just Enough Python to Build Useful Tools
