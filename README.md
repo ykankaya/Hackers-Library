@@ -37,6 +37,4 @@ Name  |  Description
 [Linux Fundamentals by Paul Cobbaut](https://drive.google.com/open?id=14HJZ74wpcpdD2ChrCl_DDjuEtM33TT18) | A good introduction to Linux. Recommend it to all those users who want to become more advanced and master the terminal.
 [Linux for Dummies by by Richard Blum and Dee-Ann LeBlanc](https://drive.google.com/open?id=1N-9CtehdabVOWHzVG6BtGM06gefnmifI) | One of the fastest ways to learn Linux. If you've been wanting to migrate to Linux, this book is the best way to get there.
 [Mac OSX and iOS Internals by Jonathan Levin](https://drive.google.com/open?id=1Y4nDWL5I_u_WQyXNLPK6hxNNAvqLi7_7) | An in-depth look into Mac OS X and iOS kernels 
-[Linux for Dummies by by Richard Blum and Dee-Ann LeBlanc](https://drive.google.com/open?id=1N-9CtehdabVOWHzVG6BtGM06gefnmifI) | One of the fastest ways to learn Linux. If you've been wanting to migrate to Linux, this book is the best way to get there.
-[Linux for Dummies by by Richard Blum and Dee-Ann LeBlanc](https://drive.google.com/open?id=1N-9CtehdabVOWHzVG6BtGM06gefnmifI) | One of the fastest ways to learn Linux. If you've been wanting to migrate to Linux, this book is the best way to get there.
-
+[Operating System Concepts aka the Dinosaur book by Abraham Silberschatz](https://drive.google.com/open?id=1-m5b7-e9xQgsiJBB7NEO-YP0yX2JuPUn) | Keep pace with the fast-developing world of operating systems. This book provides a solid theoretical foundation for understanding operating systems
