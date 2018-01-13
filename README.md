@@ -77,12 +77,6 @@ Name  |  Description
 ----  |  ----
 [PC Hardware A Beginner’s Guide by RON GILSTER](https://drive.google.com/open?id=1Btbhs2wKfpFnJPeaEc6NLzEFjaXS7wF6) | Ideal for PC owners looking for an accessible, easy-to-follow reference.
 
-### eBooks Related to CEH 
-
-Name  |  Description
-----  |  ----
-[Certified Ethical Hacker](https://drive.google.com/open?id=1YYIpAKgLf06dlgeghInGoJOTLF1OCqYh) | Ethical Hacking Course 
-
 
 
 
