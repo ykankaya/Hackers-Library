@@ -1,6 +1,6 @@
 # Free-Cyber-Security-eBooks
 
-### eBooks Related to Computer Programming
+### eBooks Related to Computer Programming Languages
 
 Name  |  Description
 ----  |  ----
@@ -45,5 +45,14 @@ Name  |  Description
 Name  |  Description
 ----  |  ----
 [Reversing Secrets of Reverse Engineering by Eldad Eilam ](https://drive.google.com/open?id=1IR7SGBTcHS1JKRBugkWNTcUi93bGTxgl) | Beginning with a basic primer on reverse engineering-including computer internals, operating systems.
+
+### eBooks Related to Virus, Botnet and Malware
+
+Name  |  Description
+----  |  ----
+[Black Book of Viruses and Hacking Mark A. Ludwig](https://drive.google.com/open?id=1FEWzH2isM3ZYc32yfw3hFkeTDGpYqqSH) | Learn the basics of Computer Viruses.
+[Computer Viruses, Hacking and Malware attacks for Dummies by Peter Gregory](https://drive.google.com/open?id=10SrxUNxowdwSglO9Lf76hMmadbjQiQl5) | A book that will teach you all you need to know!This book serves as a perfect tool for anyone who wants to learn and become more familiarized with how things are done.
+
+
 
 
