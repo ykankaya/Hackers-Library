@@ -54,11 +54,15 @@ Name  |  Description
 [Black Book of Viruses and Hacking Mark A. Ludwig](https://drive.google.com/open?id=1FEWzH2isM3ZYc32yfw3hFkeTDGpYqqSH) | Learn the basics of Computer Viruses.
 [Computer Viruses, Hacking and Malware attacks for Dummies by Peter Gregory](https://drive.google.com/open?id=10SrxUNxowdwSglO9Lf76hMmadbjQiQl5) | A book that will teach you all you need to know!This book serves as a perfect tool for anyone who wants to learn and become more familiarized with how things are done.
 
-### eBooks Related to 
+### eBooks Related to Hacking 
 
 Name  |  Description
 ----  |  ----
-[Black Book of Viruses and Hacking Mark A. Ludwig](https://drive.google.com/open?id=1FEWzH2isM3ZYc32yfw3hFkeTDGpYqqSH) | Learn the basics of Computer Viruses.
+[Hacking Exposed Network Security Secrets And Solutions](https://drive.google.com/open?id=1lSDI038QMxQGqK7h2Qh-Fz7rIGEI_sFc) | The lambs may indeed become the LIONS of cyber-security.
+[Hacking attacks and Examples Test by John Chirillo](https://drive.google.com/open?id=1Sz-TJoN1K2JCYesQ1YtZRxz5fZprsgjB) | Perform your own security audits
+[Hacking the art of exploitation by jon erickson](https://drive.google.com/open?id=1E8but79GkNSOdE9bnii8YfEunnsL3wTG) | A comprehensive introduction to the techniques of exploitation and creative problem-solving methods commonly referred to as "hacking."
+[Metasploit The Penetration Testers Guide by David Kennedy, Jim O’Gorman, Devon Kearns, and Mati Aharoni](https://drive.google.com/open?id=14KxMO1pRplLH4qbRwLrT2Ugj7iOSQPUb) |Whether your goal is to secure your own network or discover vulnerabilities for a client, Metasploit: The Penetration Tester's Guide is the definitive guide to use.
+[Mobile Device Exploitation Cookbook by Prashant Verma and Akshay Dixit](https://drive.google.com/open?id=1YPwcexsdTMzcKs4vvq6K1gdY1JXErfg1) | Over 40 recipes to master mobile device penetration testing with open source tools.
 
 
 
