@@ -27,8 +27,12 @@ Name  |  Description
 [TCP IP FOR DUMMIES by Candace Leiden and Marshall Wilensky](https://drive.google.com/open?id=1wvPRcbBiZAk8KaXfQ5TeTdcCImItO8rW) | Packed with the latest information on TCP/IP standards and protocols 
 [Understanding IP Addressing Everything You Ever Wanted To Know](https://drive.google.com/open?id=1b8LBDNuLo5P98kyMb2gAd4Wl1FsHej4p) | An overview of what network administrators need to know about IP addressing and subnetting.
 
-### eBooks Related to 
+### eBooks Related to Operating Systems 
 
 Name  |  Description
 ----  |  ----
-[Computer Networking Principles by Olivier Bonaventure](https://drive.google.com/open?id=1VqA0FwjZcRphg5zmgPPee45fCPmv_yq8) | The Paperback of the Computer Networking: Principles, Protocols and Practice
+[Instant Kali Linux by Abhinav Singh](https://drive.google.com/open?id=1KYXBZdKLHMxnuuoKWAImghSL3t813eyK) | A quick guide to learn the most widely-used operating system by network security professionals
+[Introduction To Linux by Machtelt Garrels](https://drive.google.com/open?id=1X0peItjG-4TJIYJ0nAHNhU-V38WHJygp) | Whether you're just starting out with Linux or looking to hone your existing skills, this book will provide you with the knowledge you need
+[Kali Linux Revealed by Raphaël Hertzog, Jim O’Gorman, and Mati Aharoni](https://drive.google.com/open?id=1mT9nYvX3nEBD9BnFRpffhz3glKItjYbr) | Whether you're new to Kali or a seasoned security professional, the Kali Linux Revealed Book will turn you into a certified expert.
+[Linux Fundamentals by Paul Cobbaut](https://drive.google.com/open?id=14HJZ74wpcpdD2ChrCl_DDjuEtM33TT18) | A good introduction to Linux. Recommend it to all those users who want to become more advanced and master the terminal.
+
