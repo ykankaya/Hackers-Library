@@ -40,6 +40,7 @@ Name  |  Description
 [Mac OSX and iOS Internals by Jonathan Levin](https://drive.google.com/open?id=1Y4nDWL5I_u_WQyXNLPK6hxNNAvqLi7_7) | An in-depth look into Mac OS X and iOS kernels 
 [Operating System Concepts aka the Dinosaur book by Abraham Silberschatz](https://drive.google.com/open?id=1-m5b7-e9xQgsiJBB7NEO-YP0yX2JuPUn) | Keep pace with the fast-developing world of operating systems. This book provides a solid theoretical foundation for understanding operating systems
 [Mastering Kali Linux for Advanced Penetration Testing by Robert W. Beggs](https://drive.google.com/open?id=1NIdtk5eA-MYHjaN9a4K9nhYmVjdm2DUh) | Covers all the most advanced tools and techniques to reproduce the methods used by sophisticated hackers.
+[Kali Linux Social Engineering by Rahul Singh Patel](https://drive.google.com/open?id=160CgOh38Utd9KHir3VFja-ekguXYuAjH) | Effectively perform efficient and organized social engineering tests and penetration testing using Kali Linux
 
 ### eBooks Related to Reverse Engineering
 
