@@ -63,6 +63,12 @@ Name  |  Description
 [Hacking the art of exploitation by jon erickson](https://drive.google.com/open?id=1E8but79GkNSOdE9bnii8YfEunnsL3wTG) | A comprehensive introduction to the techniques of exploitation and creative problem-solving methods commonly referred to as "hacking."
 [Metasploit The Penetration Testers Guide by David Kennedy, Jim O’Gorman, Devon Kearns, and Mati Aharoni](https://drive.google.com/open?id=14KxMO1pRplLH4qbRwLrT2Ugj7iOSQPUb) |Whether your goal is to secure your own network or discover vulnerabilities for a client, Metasploit: The Penetration Tester's Guide is the definitive guide to use.
 [Mobile Device Exploitation Cookbook by Prashant Verma and Akshay Dixit](https://drive.google.com/open?id=1YPwcexsdTMzcKs4vvq6K1gdY1JXErfg1) | Over 40 recipes to master mobile device penetration testing with open source tools.
+[Secrets of Super and Professional Hackers by By The Knightmare](https://drive.google.com/open?id=1UJouQIVb74mcTwivq4GoqGfxT2T-0nn7) | Provides step-by-step instructions for entering supposedly secure computer systems.
+[Stealing the Network_ How to Own the Box](https://drive.google.com/open?id=1948eFQ-32tBroTSkEeSjG1x1PzE5OvJa) | Stealing the Network: How to Own the Box has been chosen as the top computer security book of 2003 in the Third Annual Referenceware Excellence Awards
+[THE ART OF DECEPTION by KEVIN D. MITNICK](https://drive.google.com/open?id=1Niqc6T7MNnEYVsvSgr4ogrSC1fuuke4H) | Part of the book is composed of real stories, and examples of how social engineering can be combined with hacking.
+[The Art of Human Hacking by Christopher Hadnagy](https://drive.google.com/open?id=1AIX5-Rjcu3dPs_vroIgYzKSqewbk1oX5) | The first book to reveal and dissect the technical aspect of many social engineering maneuvers
+[The Web Application Hacker’s Handbook by Dafydd Stuttard and Marcus Pinto](https://drive.google.com/open?id=1YenkUBtmP3dkTn-ZUNa3xnHlw5WyhSlA) | Finding and Exploiting Security Flaws.
+[Vulnerability Management for Dummies by by Qualys](https://drive.google.com/open?id=10D7CUuXPBz2OJiDWthMMoRIZcZDA1HNd) | Explain the critical need for Vulnerability Management
 
 
 
