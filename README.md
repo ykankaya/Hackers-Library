@@ -39,7 +39,7 @@ Name  |  Description
 [Linux for Dummies by by Richard Blum and Dee-Ann LeBlanc](https://drive.google.com/open?id=1N-9CtehdabVOWHzVG6BtGM06gefnmifI) | One of the fastest ways to learn Linux. If you've been wanting to migrate to Linux, this book is the best way to get there.
 [Mac OSX and iOS Internals by Jonathan Levin](https://drive.google.com/open?id=1Y4nDWL5I_u_WQyXNLPK6hxNNAvqLi7_7) | An in-depth look into Mac OS X and iOS kernels 
 [Operating System Concepts aka the Dinosaur book by Abraham Silberschatz](https://drive.google.com/open?id=1-m5b7-e9xQgsiJBB7NEO-YP0yX2JuPUn) | Keep pace with the fast-developing world of operating systems. This book provides a solid theoretical foundation for understanding operating systems
-
+[Mastering Kali Linux for Advanced Penetration Testing by Robert W. Beggs](https://drive.google.com/open?id=1NIdtk5eA-MYHjaN9a4K9nhYmVjdm2DUh) | Covers all the most advanced tools and techniques to reproduce the methods used by sophisticated hackers.
 
 ### eBooks Related to Reverse Engineering
 
