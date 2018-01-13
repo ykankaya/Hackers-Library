@@ -70,6 +70,14 @@ Name  |  Description
 [The Web Application Hacker’s Handbook by Dafydd Stuttard and Marcus Pinto](https://drive.google.com/open?id=1YenkUBtmP3dkTn-ZUNa3xnHlw5WyhSlA) | Finding and Exploiting Security Flaws.
 [Vulnerability Management for Dummies by by Qualys](https://drive.google.com/open?id=10D7CUuXPBz2OJiDWthMMoRIZcZDA1HNd) | Explain the critical need for Vulnerability Management
 
+### eBooks Related to Computer Hardware 
+
+Name  |  Description
+----  |  ----
+[PC Hardware A Beginner’s Guide by RON GILSTER](https://drive.google.com/open?id=1Btbhs2wKfpFnJPeaEc6NLzEFjaXS7wF6) | Ideal for PC owners looking for an accessible, easy-to-follow reference.
+
+
+
 
 
 
