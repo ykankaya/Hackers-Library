@@ -1,4 +1,4 @@
-# Hackers Library (Collection of eBooks for Hackers)
+# Hackers Library (Collection of eBooks)
 
 ### eBooks Related to Computer Programming Languages
 
