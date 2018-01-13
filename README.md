@@ -35,4 +35,8 @@ Name  |  Description
 [Introduction To Linux by Machtelt Garrels](https://drive.google.com/open?id=1X0peItjG-4TJIYJ0nAHNhU-V38WHJygp) | Whether you're just starting out with Linux or looking to hone your existing skills, this book will provide you with the knowledge you need
 [Kali Linux Revealed by Raphaël Hertzog, Jim O’Gorman, and Mati Aharoni](https://drive.google.com/open?id=1mT9nYvX3nEBD9BnFRpffhz3glKItjYbr) | Whether you're new to Kali or a seasoned security professional, the Kali Linux Revealed Book will turn you into a certified expert.
 [Linux Fundamentals by Paul Cobbaut](https://drive.google.com/open?id=14HJZ74wpcpdD2ChrCl_DDjuEtM33TT18) | A good introduction to Linux. Recommend it to all those users who want to become more advanced and master the terminal.
+[Linux for Dummies by by Richard Blum and Dee-Ann LeBlanc](https://drive.google.com/open?id=1N-9CtehdabVOWHzVG6BtGM06gefnmifI) | One of the fastest ways to learn Linux. If you've been wanting to migrate to Linux, this book is the best way to get there.
+[Mac OSX and iOS Internals by Jonathan Levin](https://drive.google.com/open?id=1Y4nDWL5I_u_WQyXNLPK6hxNNAvqLi7_7) | An in-depth look into Mac OS X and iOS kernels 
+[Linux for Dummies by by Richard Blum and Dee-Ann LeBlanc](https://drive.google.com/open?id=1N-9CtehdabVOWHzVG6BtGM06gefnmifI) | One of the fastest ways to learn Linux. If you've been wanting to migrate to Linux, this book is the best way to get there.
+[Linux for Dummies by by Richard Blum and Dee-Ann LeBlanc](https://drive.google.com/open?id=1N-9CtehdabVOWHzVG6BtGM06gefnmifI) | One of the fastest ways to learn Linux. If you've been wanting to migrate to Linux, this book is the best way to get there.
 
